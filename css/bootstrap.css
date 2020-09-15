@@ -341,8 +341,8 @@ body {
   font-size: 1rem;
   font-weight: normal;
   line-height: 1.5;
-  color: #292b2c;
-  background-color: #fff;
+  color: #727add;
+  background-color: #727add;
 }
 
 [tabindex="-1"]:focus {
@@ -608,7 +608,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #de1620;
 }
 
 .list-unstyled {
